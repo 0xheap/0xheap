@@ -1,8 +1,7 @@
-# hey, I'm Abdessamad 👋
+# hey, I'm Abdessamad 
 
 student @ **1337 coding school** · Morocco
 
----
 
 ### about me
 

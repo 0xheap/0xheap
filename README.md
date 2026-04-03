@@ -23,7 +23,6 @@ student @ **1337 coding school** · Morocco
 
 ### github stats
 
-![GitHub Stats](http://localhost:3000/widget/stats?user=0xheap)
 ---
 
 <sub>📍 Morocco · 1337 school · 42 network</sub>

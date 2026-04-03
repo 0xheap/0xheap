@@ -23,9 +23,7 @@ student @ **1337 coding school** · Morocco
 
 ### github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xheap&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xheap&layout=compact&hide_border=true&theme=default" height="150" />
-
+![GitHub Stats](http://localhost:3000/widget/stats?user=0xheap)
 ---
 
 <sub>📍 Morocco · 1337 school · 42 network</sub>
